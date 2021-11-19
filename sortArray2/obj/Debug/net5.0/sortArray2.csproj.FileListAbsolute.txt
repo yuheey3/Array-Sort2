@@ -1,0 +1,16 @@
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\bin\Debug\net5.0\sortArray2.exe
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\bin\Debug\net5.0\sortArray2.deps.json
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\bin\Debug\net5.0\sortArray2.runtimeconfig.json
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\bin\Debug\net5.0\sortArray2.runtimeconfig.dev.json
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\bin\Debug\net5.0\sortArray2.dll
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\bin\Debug\net5.0\ref\sortArray2.dll
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\bin\Debug\net5.0\sortArray2.pdb
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\sortArray2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\sortArray2.AssemblyInfoInputs.cache
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\sortArray2.AssemblyInfo.cs
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\sortArray2.csproj.CoreCompileInputs.cache
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\sortArray2.dll
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\ref\sortArray2.dll
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\sortArray2.pdb
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\sortArray2.genruntimeconfig.cache
+D:\Yuki\School\7thSemester\sortArray\sortArray2\sortArray2\obj\Debug\net5.0\sortArray2.csproj.AssemblyReference.cache
